@@ -15,14 +15,14 @@ Welcome to the **To-Do List App** – a simple yet efficient task management app
 
 ## 📄 Report
 📑 [Read the Report](https://github.com/Abdullaheiiiid/Mobile-Computing-Course-Taks/blob/master/To-Do%20List/Report/to-do%20list%20report.pdf)
+[to-do list report.pdf](https://github.com/user-attachments/files/19212932/to-do.list.report.pdf)
 
 ## 🎥 Demo Video
-📹 [Watch the Video](https://github.com/Abdullaheiiiid/Mobile-Computing-Course-Taks/blob/master/To-Do%20List/Video/to-do%20list.mp4)
 
 https://github.com/user-attachments/assets/87d32f06-aa1c-4355-ace5-d58f37575a9e
 
 ## 💻 Source Code
-📝 [View the Code](https://github.com/USERNAME/REPO_NAME/tree/main/To-Do-List)
+📝 [View the Code](https://github.com/Abdullaheiiiid/Mobile-Computing-Course-Taks/tree/master/To-Do%20List/Code)
 
 ## 📱 Application on Expo
 📝 [View the App](https://snack.expo.dev/@abdullaheiid/to-do-list)
