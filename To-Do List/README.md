@@ -14,8 +14,7 @@ Welcome to the **To-Do List App** – a simple yet efficient task management app
 - **Demo Video:** A short demonstration showcasing the app's features in action.
 
 ## 📄 Report
-📑 [Read the Report](https://github.com/Abdullaheiiiid/Mobile-Computing-Course-Taks/blob/master/To-Do%20List/Report/to-do%20list%20report.pdf)
-[to-do list report.pdf](https://github.com/user-attachments/files/19212932/to-do.list.report.pdf)
+[Download to-do list report.pdf](https://github.com/user-attachments/files/19212932/to-do.list.report.pdf)
 
 ## 🎥 Demo Video
 
